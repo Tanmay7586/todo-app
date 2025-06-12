@@ -1,4 +1,4 @@
-import pkg from "@netlify/next";
+import pkg from '@netlify/next';
 const { withNetlify } = pkg;
 
 export default withNetlify({
